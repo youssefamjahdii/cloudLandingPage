@@ -65,14 +65,17 @@ body {
   justify-content: space-around;
   flex-wrap: wrap;
 }
-.projects img{
+.projects img {
   background: linear-gradient(5deg, aliceblue 0%,
   aliceblue 35%, hwb(202 11% 0%) 130%);
- 
   border: 5px;
   border-radius: 80px;
   width: 300px;
   height: auto;
+}
+.certifications img{
+  width: 300px;
+  height: 300px;
 }
 .project{
   max-width: 300px;
